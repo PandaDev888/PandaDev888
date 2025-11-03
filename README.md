@@ -2,13 +2,13 @@
 
 Building **scalable, high-performance AI systems** with clean architecture and reliable backend infrastructure.  
 Passionate about **machine learning**, **AI scalability**, and **maintaining high-quality code**.  
-![Funny Panda](https://media.giphy.com/media/26Ff7gSCy9Vmdcq6Y/giphy.gif)
+![Funny Panda](https://media.giphy.com/media/xT5LMAKmwJZ2ffLHXO/giphy.gif)
 
 ---
 
 ## 🌟 Vision  
 Create **AI-powered solutions** that **empower users and businesses**, simplify complex processes, and **scale efficiently** across various industries.  
-![Excited Animal](https://media.giphy.com/media/l0IYbLNk8aekgdJtS/giphy.gif)
+![Excited Animal](https://media.giphy.com/media/3o6MbiBlagJ8KpBGmY/giphy.gif)
 
 ---
 
@@ -41,7 +41,7 @@ Create **AI-powered solutions** that **empower users and businesses**, simplify 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
-![Funny Tech](https://media.giphy.com/media/26AHzvPESKLzUG4jy/giphy.gif)
+![Tech Stack Fun](https://media.giphy.com/media/l0MYt5jPQmScZfRf2/giphy.gif)
 
 ---
 
@@ -49,15 +49,15 @@ Create **AI-powered solutions** that **empower users and businesses**, simplify 
 I’ve been involved in numerous impactful AI projects, including:
 - **AI-Powered Chatbots**  
   Designed and deployed AI-driven conversational agents to automate customer service interactions with an emphasis on **natural language processing (NLP)**.  
-  ![AI Chatbot](https://media.giphy.com/media/26gssv3jdxOxeKTTm/giphy.gif)
+  ![Chatbot](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
 
 - **Predictive Analytics Models**  
   Developed and optimized **machine learning models** that provide actionable insights by predicting customer behavior, sales trends, and business forecasts.  
-  ![Predictive Model](https://media.giphy.com/media/3o7aD1Kro5AneN0osE/giphy.gif)
+  ![Predictive Model](https://media.giphy.com/media/l0MYtvYO0dYwdufWg/giphy.gif)
 
 - **Image Recognition**  
   Leveraged **OpenCV** and **deep learning** techniques to build high-performance image recognition systems, boosting automation efficiency by over 30%.  
-  ![Funny Animal Image Recognition](https://media.giphy.com/media/l2SpXIZvzcITzquA4/giphy.gif)
+  ![Image Recognition Fun](https://media.giphy.com/media/l0HlQ7JfJ0vw19vNA/giphy.gif)
 
 ---
 
@@ -67,7 +67,7 @@ I’ve been involved in numerous impactful AI projects, including:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev888&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PandaDev888&show_icons=true&theme=radical)
 
-![GitHub Fun](https://media.giphy.com/media/3o6Mbf9TAk3d6bgxQg/giphy.gif)
+![GitHub Fun](https://media.giphy.com/media/26gssv3jdxOxeKTTm/giphy.gif)
 
 ---
 
@@ -75,10 +75,10 @@ I’ve been involved in numerous impactful AI projects, including:
 - **42 Stars** earned for my repositories.  
 - Contributed to **2 open-source projects** this year.  
 - **25 PRs** merged in the last year.  
-  ![Celebration GIF](https://media.giphy.com/media/fA19gk66gKehW/giphy.gif)
+  ![Celebration GIF](https://media.giphy.com/media/jn8pyLVmbhtIc/giphy.gif)
 
 ---
 
 ### 📬 Let’s Connect!  
 Feel free to reach out to me via [Email](mailto:pandadev@example.com) or [LinkedIn](https://www.linkedin.com/in/pandadev).  
-![Animal Contact](https://media.giphy.com/media/3o7TKuNQ9mP8lEvnq0/giphy.gif)
+![Contact](https://media.giphy.com/media/l2JHBYrD91Y2KM9ZK/giphy.gif)
