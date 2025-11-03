@@ -1,14 +1,12 @@
 # 👋 Hi, I'm a Senior AI Engineer
 
 Building **scalable, high-performance AI systems** with clean architecture and reliable backend infrastructure.  
-Passionate about **machine learning**, **AI scalability**, and **maintaining high-quality code**.  
-![Cute Cat](https://media.giphy.com/media/3o7TKy4r7F2tr9YO3G/giphy.gif)
+Passionate about **machine learning**, **AI scalability**, and **maintaining high-quality code**.
 
 ---
 
 ## 🌟 Vision  
-Create **AI-powered solutions** that **empower users and businesses**, simplify complex processes, and **scale efficiently** across various industries.  
-![Excited Cat](https://media.giphy.com/media/f5Hg0LkocJciw/giphy.gif)
+Create **AI-powered solutions** that **empower users and businesses**, simplify complex processes, and **scale efficiently** across various industries.
 
 ---
 
@@ -23,7 +21,6 @@ Create **AI-powered solutions** that **empower users and businesses**, simplify 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-4C4C9D?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -41,23 +38,19 @@ Create **AI-powered solutions** that **empower users and businesses**, simplify 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
-![Tech Stack Dog](https://media.giphy.com/media/26gssv3jdxOxeKTTm/giphy.gif)
 
 ---
 
 ## 🧠 Projects & Contributions  
 I’ve been involved in numerous impactful AI projects, including:
 - **AI-Powered Chatbots**  
-  Designed and deployed AI-driven conversational agents to automate customer service interactions with an emphasis on **natural language processing (NLP)**.  
-  ![Cute Chatbot Cat](https://media.giphy.com/media/l4pTnlbqjlAKbFz5a/giphy.gif)
+  Designed and deployed AI-driven conversational agents to automate customer service interactions with an emphasis on **natural language processing (NLP)**.
 
 - **Predictive Analytics Models**  
-  Developed and optimized **machine learning models** that provide actionable insights by predicting customer behavior, sales trends, and business forecasts.  
-  ![Predictive Dog](https://media.giphy.com/media/3o85xt8nkdz2dxtD38/giphy.gif)
+  Developed and optimized **machine learning models** that provide actionable insights by predicting customer behavior, sales trends, and business forecasts.
 
 - **Image Recognition**  
-  Leveraged **OpenCV** and **deep learning** techniques to build high-performance image recognition systems, boosting automation efficiency by over 30%.  
-  ![Funny Animal Image Recognition](https://media.giphy.com/media/d3mlE7s3tT3wzF7z0/giphy.gif)
+  Leveraged **OpenCV** and **deep learning** techniques to build high-performance image recognition systems, boosting automation efficiency by over 30%.
 
 ---
 
@@ -67,18 +60,15 @@ I’ve been involved in numerous impactful AI projects, including:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev888&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PandaDev888&show_icons=true&theme=radical)
 
-![GitHub Fun Cat](https://media.giphy.com/media/3o85xZ5Jwcz9WfrS8w/giphy.gif)
-
 ---
 
 ## 📈 Key Achievements  
 - **42 Stars** earned for my repositories.  
 - Contributed to **2 open-source projects** this year.  
 - **25 PRs** merged in the last year.  
-  ![Celebration Cat](https://media.giphy.com/media/5xaOcLw48gfdtA7k7v6/giphy.gif)
 
 ---
 
 ### 📬 Let’s Connect!  
-Feel free to reach out to me via [Email](mailto:pandadev@example.com) or [LinkedIn](https://www.linkedin.com/in/pandadev).  
-![Contact Dog](https://media.giphy.com/media/l2JHBYrD91Y2KM9ZK/giphy.gif)
+Feel free to reach out to me via [Email](mailto:pandadev@example.com) or [LinkedIn](https://www.linkedin.com/in/pandadev).
+
