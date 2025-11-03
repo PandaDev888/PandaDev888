@@ -70,15 +70,6 @@ I’ve been involved in numerous impactful AI projects, including:
 
 ---
 
-## 🐾 Fun with AI and Animals 🐾
-
-Check out this adorable 3D **cat and dog gifs** that express some of my core emotions when working on AI challenges:
-
-![Cat Happy](https://link-to-your-3d-cat-happy.gif)
-![Dog Curious](https://link-to-your-3d-dog-curious.gif)
-
----
-
 ### 📬 Let’s Connect!  
 Feel free to reach out to me via [Email](mailto:pandadev@example.com) or [LinkedIn](https://www.linkedin.com/in/pandadev).
 
