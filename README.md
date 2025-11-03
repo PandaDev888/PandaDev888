@@ -6,7 +6,8 @@ Passionate about **machine learning**, **AI scalability**, and **maintaining hig
 ---
 
 ## 🌟 Vision  
-Create **AI-powered solutions** that **empower users and businesses**, simplify complex processes, and **scale efficiently** across various industries.
+Create **AI-powered solutions** that **empower users and businesses**, simplify complex processes, and **scale efficiently** across various industries.  
+![Vision](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
 
 ---
 
@@ -21,6 +22,7 @@ Create **AI-powered solutions** that **empower users and businesses**, simplify 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-4C4C9D?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -38,6 +40,7 @@ Create **AI-powered solutions** that **empower users and businesses**, simplify 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
+![Tech Stack](https://media.giphy.com/media/l41lTzhtL9Ha0sXIY/giphy.gif)
 
 ---
 
@@ -52,6 +55,8 @@ I’ve been involved in numerous impactful AI projects, including:
 - **Image Recognition**  
   Leveraged **OpenCV** and **deep learning** techniques to build high-performance image recognition systems, boosting automation efficiency by over 30%.
 
+![AI Projects](https://media.giphy.com/media/l0HlCwHsu0xDtdwwg/giphy.gif)
+
 ---
 
 ## 📊 GitHub Stats
@@ -60,6 +65,8 @@ I’ve been involved in numerous impactful AI projects, including:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev888&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PandaDev888&show_icons=true&theme=radical)
 
+![GitHub Contributions](https://media.giphy.com/media/xT9IgFxdv2ndgIrs8k/giphy.gif)
+
 ---
 
 ## 📈 Key Achievements  
@@ -67,8 +74,11 @@ I’ve been involved in numerous impactful AI projects, including:
 - Contributed to **2 open-source projects** this year.  
 - **25 PRs** merged in the last year.  
 
+![Achievement](https://media.giphy.com/media/26gssv3jdxOxeKTTm/giphy.gif)
+
 ---
 
 ### 📬 Let’s Connect!  
-Feel free to reach out to me via [Email](mailto:pandadev@example.com) or [LinkedIn](https://www.linkedin.com/in/pandadev).
+Feel free to reach out to me via [Email](mailto:pandadev@example.com) or [LinkedIn](https://www.linkedin.com/in/pandadev).  
+![Contact](https://media.giphy.com/media/3o7TKuNQ9mP8lEvnq0/giphy.gif)
 
