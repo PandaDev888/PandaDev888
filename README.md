@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Full Stack Developer
+# 👋 Hi, I'm a Senior AI Engineer
 
 Building **scalable, high-performance applications** with clean architecture and robust backend systems.  
 Passionate about **performance, reliability, and maintainable code**.  
