@@ -71,5 +71,5 @@ I’ve been involved in numerous impactful AI projects, including:
 ---
 
 ### 📬 Let’s Connect!  
-Feel free to reach out to me via [Email](mailto:pandadev@example.com) or [LinkedIn](https://www.linkedin.com/in/pandadev).
+Feel free to reach out to me via [Email](codemind097@gmail.com).
 
